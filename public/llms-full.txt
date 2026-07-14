@@ -2,13 +2,13 @@
 
 An online dropshipping store focused on selling products without holding inventory. The business model relies on third-party suppliers fulfilling orders directly to customers. The specific niche, product category, and brand identity are yet to be defined.
 
-Source: https://homeworld-e86e1ae5.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלה את עולם המוצרים המוביל — Homeworld
 
-URL: https://homeworld-e86e1ae5.zappy5.app
+URL: https://example.com
 Description: חנות דרופשיפינג חדשנית שמביאה עד אליך מוצרים נבחרים בלי מלאי. חוויית קנייה קלה, משלוח מהיר ומוצרים איכותיים. התחל לחסוך זמן וכסף עוד היום!
 
 גלה את עולם המוצרים המוביל — Homeworld
@@ -469,7 +469,7 @@ Description: חנות דרופשיפינג חדשנית שמביאה עד אלי
 
 ## הדרך החכמה לקנות אונליין — Homeworld
 
-URL: https://homeworld-e86e1ae5.zappy5.app/how-it-works
+URL: https://example.com/how-it-works
 Description: מנגנון הדרופשיפינג שלנו עובד בשבילך: בחר מוצר, הזמן בקלות, ואנחנו דואגים לספק אותו ישירות מהספק. פשטות, מהירות ונוחות שמשנות את חוויית הקנייה. נסה עכשיו!
 
 הדרך החכמה לקנות אונליין — Homeworld
@@ -988,7 +988,7 @@ Homeworld מספקת תשתית שיווקית מלאה שמציגה את המו
 
 ## הסיפור שמאחורי המהפכה — Homeworld
 
-URL: https://homeworld-e86e1ae5.zappy5.app/about
+URL: https://example.com/about
 Description: Homeworld נולדה כדי לשנות את עולם הקניות עם מודל דרופשיפינג גמיש וחדשני. אנו מחויבים לאיכות, שקיפות ושירות יוצא דופן. הצטרף למסע שלנו וגלה למה אנחנו שונים.
 
 הסיפור שמאחורי המהפכה — Homeworld
@@ -1370,7 +1370,7 @@ Homeworld נבנתה מהיסוד כפלטפורמה שמתפתחת איתכם. 
 
 ## דבר איתנו ונתחיל לנוע — Homeworld
 
-URL: https://homeworld-e86e1ae5.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש שאלה, רעיון או צורך בעזרה? צוות Homeworld כאן בשבילך! פנה אלינו עוד היום לקבלת שירות אישי, תמיכה מהירה ופתרונות שמתאימים בדיוק לך. אנחנו מחכים לשמוע ממך!
 
 דבר איתנו ונתחיל לנוע — Homeworld
@@ -1720,7 +1720,7 @@ Description: יש שאלה, רעיון או צורך בעזרה? צוות Homewo
 
 ## מוצרים
 
-URL: https://homeworld-e86e1ae5.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Homeworld
 
 מוצרים - Homeworld
@@ -2109,7 +2109,7 @@ Description: המוצרים שלנו - Homeworld
 
 ## עגלת קניות
 
-URL: https://homeworld-e86e1ae5.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Homeworld
@@ -2340,7 +2340,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://homeworld-e86e1ae5.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Homeworld
@@ -2757,7 +2757,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://homeworld-e86e1ae5.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Homeworld
@@ -2995,7 +2995,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://homeworld-e86e1ae5.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Homeworld
@@ -3388,7 +3388,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://homeworld-e86e1ae5.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Homeworld
@@ -3643,7 +3643,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://homeworld-e86e1ae5.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Homeworld
@@ -3927,7 +3927,7 @@ Homeworld מחויבת לשביעות רצון לקוחותיה. מדיניות 
 
 ## פרטי המוצר
 
-URL: https://homeworld-e86e1ae5.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Homeworld
 
 פרטי המוצר - Homeworld
@@ -4160,7 +4160,7 @@ Description: פרטי המוצר - Homeworld
 
 ## מוצרים
 
-URL: https://homeworld-e86e1ae5.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Homeworld
 
 מוצרים - Homeworld
@@ -4417,7 +4417,7 @@ Description: מוצרים - Homeworld
 
 ## מדיניות פרטיות
 
-URL: https://homeworld-e86e1ae5.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4677,7 +4677,7 @@ Homeworld ("החברה", "אנו", "שלנו") מחויבת להגן על פרט
 
 ## הצהרת נגישות
 
-URL: https://homeworld-e86e1ae5.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4946,7 +4946,7 @@ Homeworld מחויבת להנגיש את השירותים לכלל הציבור.
 
 ## תנאי שימוש
 
-URL: https://homeworld-e86e1ae5.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5234,7 +5234,7 @@ Homeworld מספקת E-commerce / Dropshipping דרך האתר. השירותים
 
 ## תודה רבה | ההודעה התקבלה
 
-URL: https://homeworld-e86e1ae5.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה שפנית אלינו. פנייתך לצוות התמיכה של Homeworld 1 Remastered התקבלה בהצלחה במערכת ונחזור אליך בהקדם האפשרי.
 
 תודה רבה | ההודעה התקבלה

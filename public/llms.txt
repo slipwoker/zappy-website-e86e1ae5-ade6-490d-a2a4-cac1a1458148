@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://homeworld-e86e1ae5.zappy5.app
+https://example.com
 חנות דרופשיפינג חדשנית שמביאה עד אליך מוצרים נבחרים בלי מלאי. חוויית קנייה קלה, משלוח מהיר ומוצרים איכותיים. התחל לחסוך זמן וכסף עוד היום!
 
 ### איך זה עובד
-https://homeworld-e86e1ae5.zappy5.app/how-it-works
+https://example.com/how-it-works
 מנגנון הדרופשיפינג שלנו עובד בשבילך: בחר מוצר, הזמן בקלות, ואנחנו דואגים לספק אותו ישירות מהספק. פשטות, מהירות ונוחות שמשנות את חוויית הקנייה. נסה עכשיו!
 
 ### אודות
-https://homeworld-e86e1ae5.zappy5.app/about
+https://example.com/about
 Homeworld נולדה כדי לשנות את עולם הקניות עם מודל דרופשיפינג גמיש וחדשני. אנו מחויבים לאיכות, שקיפות ושירות יוצא דופן. הצטרף למסע שלנו וגלה למה אנחנו שונים.
 
 ### צור קשר
-https://homeworld-e86e1ae5.zappy5.app/contact
+https://example.com/contact
 יש שאלה, רעיון או צורך בעזרה? צוות Homeworld כאן בשבילך! פנה אלינו עוד היום לקבלת שירות אישי, תמיכה מהירה ופתרונות שמתאימים בדיוק לך. אנחנו מחכים לשמוע ממך!
 
 ### Products
-https://homeworld-e86e1ae5.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Homeworld
 
 ### Cart
-https://homeworld-e86e1ae5.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://homeworld-e86e1ae5.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://homeworld-e86e1ae5.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://homeworld-e86e1ae5.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://homeworld-e86e1ae5.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://homeworld-e86e1ae5.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Homeworld
 
 ### Category
-https://homeworld-e86e1ae5.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Homeworld
 
 ### תודה רבה | ההודעה התקבלה
-https://homeworld-e86e1ae5.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית אלינו. פנייתך לצוות התמיכה של Homeworld 1 Remastered התקבלה בהצלחה במערכת ונחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://homeworld-e86e1ae5.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://homeworld-e86e1ae5.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://homeworld-e86e1ae5.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ E-commerce / Dropshipping
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://homeworld-e86e1ae5.zappy5.app/sitemap.xml
-- Robots: https://homeworld-e86e1ae5.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://homeworld-e86e1ae5.zappy5.app/llms-full.txt
-- Products (JSON): https://homeworld-e86e1ae5.zappy5.app/products.json
-- Products (Google Merchant RSS): https://homeworld-e86e1ae5.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
